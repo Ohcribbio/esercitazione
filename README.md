@@ -16,4 +16,4 @@
 ## esercitazione04
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ohcribbio/readme/blob/main/Esercitazione04/16_Dataframe_tipsbig.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ohcribbio/readme/blob/main/Esercitazione04/18_Iris.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ohcribbio/readme/blob/main/Esercitazione04/Soluz_esercizi_matplot.ipynb)
